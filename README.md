@@ -1,1 +1,1 @@
-# ImageSuper-Resolution_UsingSRGAN
+# ImageSuper-Resolution Using SRGAN
